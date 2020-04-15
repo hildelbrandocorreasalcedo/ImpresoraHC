@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IEscanear.cs" />
+    <Compile Include="IFotocopias.cs" />
+    <Compile Include="Impresora.cs" />
+    <Compile Include="ImpresoraModelo2000.cs" />
+    <Compile Include="ImpresoraModelo2001.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
